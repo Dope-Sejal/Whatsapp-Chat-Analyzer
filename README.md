@@ -16,5 +16,5 @@ Drop an exported WhatsApp chat (.txt) into the Streamlit app and get interactive
 
    steps to run the project
    -In  vs code open terminal and run command
-   ##-pip install -r requirements.txt
-   ##-streamlit run app.py
+   ***--  pip install -r requirements.txt
+   ***--  streamlit run app.py
